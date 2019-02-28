@@ -947,7 +947,6 @@ Here are some guidelines to use when authoring the custom parameters file. The f
 
 The default parameterization template can change, but as of today, this is the template. This will be useful, if you just need to add one additional property as parameter, but you don’t want to lose the existing ones and reauthor team that are already getting parameterized.
 
-
 ```
 {
     "Microsoft.DataFactory/factories/pipelines": {
